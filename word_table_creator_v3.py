@@ -1,5 +1,4 @@
-from lxml import etree
-print("lxml is working!")  # If this fails, the problem is with lxml itself
+
 import streamlit as st
 import pandas as pd
 import numpy as np
